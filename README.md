@@ -8,27 +8,27 @@ Software Engineering Day1 Assignment
 
 Software engineering is a branch of computer science used for developing, testing and maintaining software.
 
-Reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
+- Reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 
-Efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+- Efficiency - it helps to optimize developer workflow while maintaining high quality standards.
  
-Scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+- Scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
 Security - implement protection practice like authentication, authorization and encryption to secure users information. 
 
 
 **Identify and describe at least three key milestones in the evolution of software engineering.**
 
-Mastering the Machine (1956–1967) - The term software engineering had not yet been coined. Code development was strongly influenced by outside forces. The main purpose of any piece of software was to optimize exploitation of the limited hardware resources.
+- Mastering the Machine (1956–1967) - The term software engineering had not yet been coined. Code development was strongly influenced by outside forces. The main purpose of any piece of software was to optimize exploitation of the limited hardware resources.
 
-Mastering the Process (1968–1982) - The first software crisis in this stage led to the birth of software engineering [1]. The aim was to reduce risk during development and improve quality and productivity. Software development methodologies appeared to define and monitor software building. An important contribution of this stage was the formal modeling approach that enables implementation automation.
+- Mastering the Process (1968–1982) - The first software crisis in this stage led to the birth of software engineering [1]. The aim was to reduce risk during development and improve quality and productivity. Software development methodologies appeared to define and monitor software building. An important contribution of this stage was the formal modeling approach that enables implementation automation.
 
-Mastering the Complexity (1983–1992) - The up to then dominion of hardware over software ended. Personal computers arrived and opened the fields of computer applications. The software development process would now comprehensively address analysis and design from the specification. Graphical user interface and visual programming brought software closer to customers
+- Mastering the Complexity (1983–1992) - The up to then dominion of hardware over software ended. Personal computers arrived and opened the fields of computer applications. The software development process would now comprehensively address analysis and design from the specification. Graphical user interface and visual programming brought software closer to customers
 
-Mastering the Communications (1993–2001) - The emergence of the Internet brought with it a new software concept. The decentralization of functions and data led to the rapid development and expansion of areas of computing, such as concurrent programming and distributed architectures, which up to then had been limited to a narrower context.
+- Mastering the Communications (1993–2001) - The emergence of the Internet brought with it a new software concept. The decentralization of functions and data led to the rapid development and expansion of areas of computing, such as concurrent programming and distributed architectures, which up to then had been limited to a narrower context.
 
-Mastering the Productivity (2002–2010) - Most software systems created in this stage are called management information systems. They were designed to be an important part of business management in large companies. This has led to a need for the methodologies to be adapted by increasing the abstraction levels in software engineering tasks up to the abstraction level in which the problem is described.
+- Mastering the Productivity (2002–2010) - Most software systems created in this stage are called management information systems. They were designed to be an important part of business management in large companies. This has led to a need for the methodologies to be adapted by increasing the abstraction levels in software engineering tasks up to the abstraction level in which the problem is described.
 
-Mastering the Market (2011–…) - Now, there are new platforms for integration and interoperability between different information systems. The concept of Service Oriented Architecture (SOA) coined in the early decade is widely extended
+- Mastering the Market (2011–…) - Now, there are new platforms for integration and interoperability between different information systems. The concept of Service Oriented Architecture (SOA) coined in the early decade is widely extended
 
 **List and briefly explain the phases of the Software Development Life Cycle.**
 
@@ -130,6 +130,6 @@ Developer control - Prompt engineering gives developers more control over users'
 Vague prompt - Draw a picture of a person
 Clear prompt - Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
 
-Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
+- Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
 Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
-Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
+- Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
